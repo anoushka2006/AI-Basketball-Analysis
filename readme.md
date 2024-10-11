@@ -1,5 +1,5 @@
 ## SwishSync
-> Analyse basketball shots and shooting posture with machine learning
+> An AI and Machine Learning tool to analyze basketball shots and shooting posture
 
 This is an artificial intelligence application built on the concept of object and pose detection. It analyses basketball shots by digging into the data collected from object detection API. This is a web app in which you can make a `POST` request with images and videos which, in return, will give you analyzed images and videos respectively. 
 
